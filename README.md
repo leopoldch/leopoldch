@@ -1,7 +1,7 @@
 <div align="left">
 
   <h1>
-    Welcome to my Digital Garden 🌿
+    Welcome to my Digital Garden 🌿🧸
   </h1>
   
   <p>
